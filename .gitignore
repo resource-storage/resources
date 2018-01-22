@@ -1,0 +1,9 @@
+/target/
+/applogs/
+/.idea/
+/nb-configuration.xml
+/nbactions.xml
+/nbproject/
+/opdesk.iml
+npm-debug.log
+.directory
