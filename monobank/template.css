@@ -200,6 +200,12 @@ ul li::before {
 	opacity: 0.8;
 }
 
+.alert,
+.tariff-block--info {
+	background: blue !important;
+	color: purple !important;
+}
+
 @media screen and (prefers-color-scheme: dark) {
 	body {
 		color: #aaa;
