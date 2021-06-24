@@ -20,7 +20,8 @@ webview {
 }
 
 html {
-	font-size: 1px;
+	font-size: 16px;
+	background-color: transparent;
 }
 body {
 	background-color: transparent;
