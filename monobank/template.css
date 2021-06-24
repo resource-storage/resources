@@ -219,7 +219,7 @@ ul li::before {
 
 	.alert,
 	.tariff-block--info {
-		background: rgba(238,246,255,0.08);
-		color: #A2B2C6;
+		background: red;
+		color: green;
 	}
 }
